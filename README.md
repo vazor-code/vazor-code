@@ -20,8 +20,8 @@
 
 ### 📊 Активность на GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrIncognitoOfficial&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrIncognitoOfficial&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazor-code&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazor-code&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 📫 Как связаться
 <p align="left">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:ddimin582@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
