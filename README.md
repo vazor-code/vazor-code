@@ -1,16 +1,42 @@
-# Hi there, I'm Vazor 👋
+# 👋 Привет, я Vazor 
 
-🌍 A passionate Software Engineer | 🎨 Lover of Games and Technology
+**🎮 Гейм-энтузиаст & 💻 Full-stack разработчик | Увлекаюсь технологиями и созданием крутых проектов**
 
-## 🚀 Skills & Technologies:
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** Node.js, Flask
-- **Databases:** MySQL
-- **Other Technologies:** Git
+---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrIncognitoOfficial&show_icons=true&theme=radical)
+### 🛠️ Технологический стек
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-## 🌈 Fun Fact:
-I love playing chess in my free time and PC GAMES! 🖌️♟️
-Sometimes I try play with IT-Infrastructure
+---
+
+### 📊 Активность на GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrIncognitoOfficial&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrIncognitoOfficial&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+---
+
+### 🎮 Увлечения и интересные факты
+- ♟️ Страстный любитель шахмат
+- 🎧 Фанат компьютерных игр
+- 🖥️ Экспериментирую с IT-инфраструктурой
+- 🛠️ Люблю разбираться в технических деталях
+
+---
+
+### 📫 Как связаться
+<p align="left">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
