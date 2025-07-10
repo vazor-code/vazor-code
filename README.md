@@ -33,8 +33,12 @@
 ### 📊 Активность на GitHub
 
 <div align="center">
-  <img height="180em" src=" https://github-readme-stats.vercel.app/api?username=vazor-code&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=vazor-code&layout=compact&theme=dracula"/>
+  <h2>
+    <a href="https://github.com/vazor-code">@vazor-code</a>
+  </h2>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazor-code&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazor-code&layout=compact&theme=dracula"/>
 </div>
 
 ---
