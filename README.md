@@ -1,7 +1,7 @@
 # 👋 Hi, I'm vazor
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif" width="700" alt="Banner was here...."/>
+  <img src="https://i.ibb.co/MkYtrpHB/vazor.png" width="700" alt="Banner was here...."/>
 </div>
 
 
@@ -10,9 +10,6 @@
 > 🐍 Building web apps with Python, exploring how systems work, and automating the world around me.  
 > Always curious, always coding.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd4aHZiZDg0Ym9kMnVwemRlNzJ6eWZ6b2F5NGx5M3B2OGp3cGZvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icoReyAWLrs18/giphy.gif" width="500" alt="Coding animation"/>
-</div>
 
 ---
 
@@ -115,6 +112,12 @@
 <p align="left">
   <a href="mailto:scoutboy0202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+<div align="center">
+  <img src="[https://i.ibb.co/MkYtrpHB/vazor.png](https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif)" width="700" alt="Banner was here...."/>
+</div>
   </a>
   <a href="https://t.me/vazor_code" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
