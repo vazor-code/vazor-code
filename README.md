@@ -114,10 +114,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
-<div align="center">
-  <img src="[https://i.ibb.co/MkYtrpHB/vazor.png](https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif)" width="700" alt="Banner was here...."/>
-</div>
   </a>
   <a href="https://t.me/vazor_code" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -127,3 +123,7 @@
 ---
 
 > 🚀 *"Code is poetry. Simplicity is sophistication. Curiosity is power."*
+
+> <div align="center">
+  <img src="https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif" width="700" alt="Banner was here...."/>
+</div>
