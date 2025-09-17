@@ -1,13 +1,13 @@
-# 👋 Привет, я vazor
+# 👋 Hi, I'm vazor
 
-**💻 Юный Python-разработчик | Увлекаюсь технологиями с 7 лет**
+**💻 Young Python Developer | Passionate about technology since age 7**
 
-> 🐍 Программирую на Python, создаю веб-серверы, разбираюсь в безопасности и ИТ.  
-> Люблю экспериментировать и учиться новому!
+> 🐍 Coding in Python, building web servers, diving into cybersecurity and IT.  
+> Love experimenting and learning new things!
 
 ---
 
-### 🔧 Навыки и технологии
+### 🔧 Skills and Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -21,16 +21,16 @@
 
 ---
 
-### 💻 Инфраструктура и интересы
+### 💻 Infrastructure and Interests
 
-- ✅ Удаление вирусов (включая MEMZ)
-- 🛡️ Тестирование вредоносного ПО в безопасной среде (VMware)
-- 🌐 Создание и настройка веб-серверов
-- 🖥 Использую VS Code как основной редактор кода
+- ✅ Removing viruses (including MEMZ)
+- 🛡️ Testing malicious software in secure environments (VMware)
+- 🌐 Setting up and configuring web servers
+- 🖥 Using VS Code as my main code editor
 
 ---
 
-### 📊 Активность на GitHub
+### 📊 GitHub Activity
 
 <div align="center">
   <h2>
@@ -41,25 +41,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazor-code&layout=compact&theme=dracula"/>
 </div>
 
----
-
-### 🎮 Интересы и факты
-
-- 🕹 Играю в компьютерные игры
-- 🤖 Изучаю работу программ и систем «под капотом»
-- 🧠 Обожаю решать логические задачи и головоломки
-- 🧪 Постоянно экспериментирую с новыми инструментами
+*Note: Stats temporarily unavailable due to API rate limit.*
 
 ---
 
-### 📬 Связь
+### 🎮 Hobbies and Facts
+
+- 🕹 Playing computer games
+- 🤖 Exploring how programs and systems work under the hood
+- 🧠 Love solving logic puzzles and brain teasers
+- 🧪 Constantly experimenting with new tools
+
+---
+
+### 📬 Contact
 
 <p align="left">
   <a href="mailto:scoutboy0202@gmail.com">
-    <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-> 🚀 "Программирование — это не только про код. Это про мышление, решение проблем и создание чего-то нового."
+> 🚀 "Programming isn't just about code. It's about thinking, problem-solving, and creating something new."
