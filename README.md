@@ -4,6 +4,7 @@
   <img src="https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif" width="700" alt="Banner was here...."/>
 </div>
 
+
 **💻 Young Python Developer | Tech enthusiast since age 7**
 
 > 🐍 Building web apps with Python, exploring how systems work, and automating the world around me.  
