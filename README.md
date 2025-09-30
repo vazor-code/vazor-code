@@ -116,7 +116,3 @@
 ---
 
 > 🚀 *"Code is poetry. Simplicity is sophistication. Curiosity is power."*
-
-> <div align="center">
-  <img src="https://i.pinimg.com/originals/b8/02/ae/b802ae478b8cd9def53fccbb82057689.gif" width="700" alt="Banner was here...."/>
-</div>
