@@ -42,40 +42,6 @@
 - 🧪 Experimenting with APIs, automation scripts, and CLI tools
 - 🖥️ Using **VS Code** with custom themes, shortcuts, and extensions
 - 📦 Containerizing apps with Docker for clean, scalable environments
-
----
-
-### 🚀 Featured Project
-
-#### [🔗 UptimeMonitor Pro](https://github.com/vazor-code/UptimeMonitor)
-
-> Real-time website monitoring with instant Telegram alerts, dark mode, and multi-language support.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vazor-code/UptimeMonitor/main/screenshots/dashboard-light.png" width="600" alt="UptimeMonitor Light Mode">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/vazor-code/UptimeMonitor/main/screenshots/dashboard-dark.png" width="600" alt="UptimeMonitor Dark Mode">
-</div>
-
-✨ **Key Features:**
-- ✅ Real-time updates via Server-Sent Events (SSE)
-- 🔔 Telegram notifications when a site goes down
-- 📊 Admin panel with uptime charts
-- 🌙 Persistent dark/light theme toggle
-- 🌍 Multi-language (RU / EN), auto-detects browser language
-- 🔒 Supports HTTPS & IPv6
-- 🎯 SSL certificate expiry warnings
-
-🛠️ Built with:
-- **Flask** (Python) – Backend
-- **Bootstrap 5** – Responsive UI
-- **Telegram Bot API** – Instant alerts
-- **SSE** – Live dashboard updates
-
-📥 **Easy Setup**: Just 6 steps → runs in 5 minutes!
-
-[👉 View Project on GitHub](https://github.com/vazor-code/UptimeMonitor)
-
 ---
 
 ### 📊 GitHub Stats
@@ -88,7 +54,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazor-code&layout=compact&theme=dracula"/>
 
   <br/><br/>
-  <i><small>⚠️ Stats temporarily unavailable due to GitHub API rate limits.</small></i>
 </div>
 
 ---
@@ -109,6 +74,9 @@
 <p align="left">
   <a href="mailto:scoutboy0202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://guns.lol/vazor_code">
+    <img src="https://assets.guns.lol/guns_banner_embed.png" alt="guns.lol">
   </a>
 </p>
 
