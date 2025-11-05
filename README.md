@@ -11,7 +11,7 @@
 
 <br/>
 
-### 🇷🇺 [Читать на русском →](README_RU.md)
+### 🇷🇺 [Читать на русском →]("https://github.com/vazor-code/vazor-code/blob/main/README.md#-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%8F-vazor")
 
 <div align="right" style="margin-top: -25px; font-size: 0.9em;">
   <em>Prefer Russian? Click here to view the Russian version.</em>
