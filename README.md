@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EXAMPLE/giphy.gif" alt="vazor animation" width="800" />
+  <img src="https://images.steamusercontent.com/ugc/958603887331757558/D1E9FAB08630AFD6CB06EE7B719338B00BCEACBC/?imw=512&imh=219&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="vazor animation" width="800" />
 </p>
