@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vazor-code/vazor-code/refs/heads/main/bg.gif" alt="vazor animation" width="800" />
+  <img src="https://raw.githubusercontent.com/vazor-code/vazor-code/refs/heads/main/banner.gif" alt="vazor animation" width="800" />
 </p>
